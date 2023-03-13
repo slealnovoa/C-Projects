@@ -1,0 +1,14 @@
+G:\CH\CH C# theatre program 06062017\Theatre Program\Theatre Program\bin\Debug\Theatre Program.exe.config
+G:\CH\CH C# theatre program 06062017\Theatre Program\Theatre Program\bin\Debug\Theatre Program.exe
+G:\CH\CH C# theatre program 06062017\Theatre Program\Theatre Program\bin\Debug\Theatre Program.pdb
+G:\CH\CH C# theatre program 06062017\Theatre Program\Theatre Program\obj\Debug\Theatre Program.csprojResolveAssemblyReference.cache
+G:\CH\CH C# theatre program 06062017\Theatre Program\Theatre Program\obj\Debug\Theatre Program.exe
+G:\CH\CH C# theatre program 06062017\Theatre Program\Theatre Program\obj\Debug\Theatre Program.pdb
+C:\Users\Santiago Leal Novoa\Desktop\Theatre Program\Theatre Program\bin\Debug\Theatre Program.exe.config
+C:\Users\Santiago Leal Novoa\Desktop\Theatre Program\Theatre Program\bin\Debug\Theatre Program.exe
+C:\Users\Santiago Leal Novoa\Desktop\Theatre Program\Theatre Program\bin\Debug\Theatre Program.pdb
+C:\Users\Santiago Leal Novoa\Desktop\Theatre Program\Theatre Program\obj\Debug\Theatre Program.csproj.AssemblyReference.cache
+C:\Users\Santiago Leal Novoa\Desktop\Theatre Program\Theatre Program\obj\Debug\Theatre Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago Leal Novoa\Desktop\Theatre Program\Theatre Program\obj\Debug\Theatre Program.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Leal Novoa\Desktop\Theatre Program\Theatre Program\obj\Debug\Theatre Program.exe
+C:\Users\Santiago Leal Novoa\Desktop\Theatre Program\Theatre Program\obj\Debug\Theatre Program.pdb
