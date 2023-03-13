@@ -1,0 +1,11 @@
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\bin\Debug\301093542(leal)_Midterm.exe.config
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\bin\Debug\301093542(leal)_Midterm.exe
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\bin\Debug\301093542(leal)_Midterm.pdb
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\obj\Debug\301093542(leal)_Midterm.csproj.AssemblyReference.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\obj\Debug\301093542(leal)_Midterm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\obj\Debug\_301093542_leal__Midterm.Form1.resources
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\obj\Debug\_301093542_leal__Midterm.Properties.Resources.resources
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\obj\Debug\301093542(leal)_Midterm.csproj.GenerateResource.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\obj\Debug\301093542(leal)_Midterm.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\obj\Debug\301093542(leal)_Midterm.exe
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_Midterm\301093542(leal)_Midterm\obj\Debug\301093542(leal)_Midterm.pdb

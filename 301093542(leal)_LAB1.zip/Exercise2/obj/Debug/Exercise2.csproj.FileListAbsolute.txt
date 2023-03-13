@@ -1,0 +1,8 @@
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\Exercise2\obj\Debug\Exercise2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\bin\Debug\301093542(leal)_LAB1.zip.exe.config
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\bin\Debug\301093542(leal)_LAB1.zip.exe
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\bin\Debug\301093542(leal)_LAB1.zip.pdb
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\obj\Debug\_301093542_leal__LAB1.zip.Form1.resources
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\obj\Debug\_301093542_leal__LAB1.zip.Properties.Resources.resources
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\obj\Debug\Exercise1.csproj.GenerateResource.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\obj\Debug\301093542(leal)_LAB1.zip.exe
+C:\Users\Santiago Leal Novoa\Desktop\301093542(leal)_LAB1.zip\301093542(leal)_LAB1.zip\obj\Debug\301093542(leal)_LAB1.zip.pdb

@@ -1,0 +1,26 @@
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\bin\Debug\301093542(Leal)_Lab2.zip.exe.config
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\bin\Debug\301093542(Leal)_Lab2.zip.exe
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\bin\Debug\301093542(Leal)_Lab2.zip.pdb
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.csproj.AssemblyReference.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\_301093542_Leal__Lab2.zip.MainForm.resources
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\_301093542_Leal__Lab2.zip.Properties.Resources.resources
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.csproj.GenerateResource.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.exe
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.pdb
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\_301093542_Leal__Lab2.zip.NotificationForm.resources
+C:\Users\Santiago Leal Novoa\Desktop\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\_301093542_Leal__Lab2.zip.SubscriptionForm.resources
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\bin\Debug\301093542(Leal)_Lab2.zip.exe.config
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\bin\Debug\301093542(Leal)_Lab2.zip.exe
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\bin\Debug\301093542(Leal)_Lab2.zip.pdb
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.csproj.AssemblyReference.cache
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\_301093542_Leal__Lab2.zip.MainForm.resources
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\_301093542_Leal__Lab2.zip.NotificationForm.resources
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\_301093542_Leal__Lab2.zip.Properties.Resources.resources
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\_301093542_Leal__Lab2.zip.SubscriptionForm.resources
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.csproj.GenerateResource.cache
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.exe
+C:\Users\Santiago Leal Novoa\Desktop\New folder\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\301093542(Leal)_Lab2.zip\obj\Debug\301093542(Leal)_Lab2.zip.pdb
